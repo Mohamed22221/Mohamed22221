@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamdy</h1>
-<h3 align="">Two years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts. Proficient in translating designs & wireframes into high-quality code, and writing application interface code via Javascript and React.JS workflows. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance.</h3>
+<h3 align="center">Two years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts. Proficient in translating designs & wireframes into high-quality code, and writing application interface code via Javascript and React.JS workflows. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to bolster overall performance.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamed22221&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed22221" /> </p>
 
